@@ -1,0 +1,7 @@
+{
+    "name": "MoreHats",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/Mykol-Word/MoreHats",
+    "description": "A mod for 'Last Train Outta' Wormtown' that adds more hats. ",
+    "dependencies": ["BepInEx-BepInExPack-5.4.2100"]
+}
